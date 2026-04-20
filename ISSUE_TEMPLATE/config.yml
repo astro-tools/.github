@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Questions & general discussion
+    url: https://github.com/orgs/astro-tools/discussions
+    about: Please ask and answer questions in GitHub Discussions rather than opening an issue.
+  - name: Security vulnerability
+    url: https://github.com/astro-tools/.github/security/advisories/new
+    about: Please report security issues privately via GitHub's private vulnerability reporting — not as a public issue.
