@@ -16,7 +16,7 @@ Open-source tooling for astrodynamics, mission analysis, and space operations.
 
 ## Featured repositories
 
-*Coming soon — repositories will be listed here as the organization grows.*
+- **[gmat-run](https://github.com/astro-tools/gmat-run)** — Run GMAT mission scripts from Python and get results as pandas DataFrames.
 
 ## How to contribute
 
